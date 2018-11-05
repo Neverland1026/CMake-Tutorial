@@ -1,0 +1,5 @@
+﻿  Building Custom Rule F:/Demo/exes/exe1/CMakeLists.txt
+  CMake does not need to re-run because F:/Demo/build/exes/exe1/CMakeFiles/generate.stamp is up-to-date.
+  main.cpp
+     正在创建库 F:/Demo/build/exes/exe1/Debug/exe1.lib 和对象 F:/Demo/build/exes/exe1/Debug/exe1.exp
+  exe1.vcxproj -> F:\Demo\build\exes\exe1\Debug\exe1.exe

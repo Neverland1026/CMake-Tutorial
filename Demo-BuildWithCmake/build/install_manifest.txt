@@ -1,0 +1,4 @@
+F:/Demo/build/lib/static/lib1.lib
+F:/Demo/build/lib/static/dll1.lib
+F:/Demo/build/bin/dll1.dll
+F:/Demo/build/bin/exe1.exe
